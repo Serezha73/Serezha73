@@ -53,6 +53,7 @@
 
 ---
 
+  
 
 
 ### 💻 Мое обучение:
@@ -64,6 +65,17 @@
 
 
 ---
+  
+
+
+| ✒️ Проекты:                                                           |
+| ----------------------------------------------------------------| 
+  | <a href="https://github.com/Serezha73/my-projects" target="_ blank">GitHub</a>
+  | <a href="https://codepen.io/Serezha73" target="_ blank">Codepen</a>
+
+  
+---
+
 
 ### ⚙️ GitHub статистика:
 
