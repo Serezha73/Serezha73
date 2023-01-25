@@ -5,7 +5,6 @@
 </div>
 
 ---
----
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=15&duration=1000&pause=2000&color=F71111&background=FFFD6F00&width=200&height=30&lines=%D0%9C%D0%BE%D0%B8+%D1%81%D0%BE%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B5+%D1%81%D0%B5%D1%82%D0%B8)](https://git.io/typing-svg)
@@ -13,7 +12,7 @@
     <a href="https://t.me/Serezha_73" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram group" />
     </a>
-    <a href="https://vk.com/f1ll_zzz" target="_blank">
+    <a href="https://vk.com/id356663059" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/145/145813.png" width="40" height="40" alt="VK Badge"/>
     </a>   
   </div>
@@ -77,7 +76,5 @@
 </table>
   
   ---
-  
- ### 🤠 МЕМЫ
 
 </div>
