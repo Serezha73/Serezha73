@@ -61,13 +61,7 @@
 | Курсы                                                           | Дата              | 
 | ----------------------------------------------------------------| :---------------: |
   | <a href="netology.ru/" target="_ blank">Основы HTML и CSS</a>                           | 02/2022 - 03/2022 |
-  | <a href="netology.ru/">Основы HTML и CSS</a>                           | 02/2022 - 03/2022 |
-  | <a href="netology.ru/">Основы HTML и CSS</a>                           | 02/2022 - 03/2022 |
-  | <a href="netology.ru/">Основы HTML и CSS</a>                           | 02/2022 - 03/2022 |
-  | <a href="netology.ru/">Основы HTML и CSS</a>                           | 02/2022 - 03/2022 |
-  | <a href="netology.ru/">Основы HTML и CSS</a>                           | 02/2022 - 03/2022 |
-  | <a href="netology.ru/">Основы HTML и CSS</a>                           | 02/2022 - 03/2022 |
-  | <a href="netology.ru/">Основы HTML и CSS</a>                           | 02/2022 - 03/2022 |
+
 
 
 ---
